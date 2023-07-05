@@ -9,3 +9,6 @@ for i in arr:
     cnt += 1
   if i>0:
     temp = False 
+
+#count number of 1s in array
+print(arr.count(1))
